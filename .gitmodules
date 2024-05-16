@@ -1,3 +1,6 @@
 [submodule "animelist-api"]
 	path = animelist-api
 	url = https://github.com/chibakoo0130/animelist-api.git
+[submodule "animelist-batch"]
+	path = animelist-batch
+	url = https://github.com/chibakoo0130/animelist-batch.git
