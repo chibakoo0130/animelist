@@ -4,3 +4,6 @@
 [submodule "animelist-batch"]
 	path = animelist-batch
 	url = https://github.com/chibakoo0130/animelist-batch.git
+[submodule "animelist-front"]
+	path = animelist-front
+	url = https://github.com/chibakoo0130/animelist-front.git
